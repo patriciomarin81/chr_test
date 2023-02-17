@@ -2,6 +2,7 @@
 Test Práctico Developer
 
 Se creó una app llamada GestionDatos donde se generaron los modelos para utilizar en las tareas (models.py).
+En el archivo settings.py están las URL para utilizar en las 2 tareas respectivamente
 
 Tarea 1:
 - Con la libreria "requests" se obtiene el contenido entregado por la API y transforma en texto.
